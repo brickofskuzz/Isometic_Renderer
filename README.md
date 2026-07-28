@@ -1,4 +1,4 @@
-Upgraded Omni-directional Isometric Render(er)
+### Upgraded Omni-directional Isometric Render(er)
 
 Upgraded fork of: https://s3rdia.itch.io/omnidirectional-isometric-render
 
